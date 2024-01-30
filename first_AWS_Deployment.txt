@@ -1,2 +1,4 @@
 Copied
 https://ccmrw34x3i.execute-api.eu-north-1.amazonaws.com/dev
+
+ARN for DynamoDB: arn:aws:dynamodb:eu-north-1:776339029399:table/firstTable_PowerOfMath
